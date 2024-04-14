@@ -1,5 +1,10 @@
 {
   "name": "Tansitous open public transport routing",
+  "attribution": {
+    "name": "Transitous",
+    "homepage": "https://transitous.org/",
+    "mixedLicenses": true
+  },
   "coverage": {
     "realtimeCoverage": {
       "region": ["BE", "CH", "NL"],
