@@ -852,7 +852,7 @@
       }
     },
     "anyCoverage": {
-      "region": ["FI", "UA", "HR", "BG", "IT", "FR", "ES", "PT", "GB", "DK", "SE", "LT", "LV", "RS", "ME", "NO"],
+      "region": ["FI", "UA", "HR", "BG", "IT", "FR", "ES", "PT", "GB", "DK", "SE", "LT", "LV", "RS", "ME", "NO", "TR"],
       "area": {
         "type": "MultiPolygon",
         "coordinates": [
