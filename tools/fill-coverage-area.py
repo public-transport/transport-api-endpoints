@@ -222,6 +222,9 @@ for covAreaType in apiData['coverage']:
         for poly in pyclipper.scale_from_clipper(pc.Execute(pyclipper.CT_UNION, pyclipper.PFT_NONZERO, pyclipper.PFT_NONZERO), CLIPPER_SCALE):
             poly.append(poly[0]) # close polygons as expected by GeoJSON
             multiPolygon += [[poly]]
+        for poly in multiPolygon:
+            poly = [roundCoordinates(ring, arguments.decimals) for ring in poly if ring]
+
 
     if multiPolygon:
         area = {}
