@@ -1679,7 +1679,7 @@
       }
     },
     "anyCoverage": {
-      "region": ["NL"],
+      "region": ["NL", "BG", "RO", "TR"],
       "area": {
         "type": "MultiPolygon",
         "coordinates": [
