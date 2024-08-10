@@ -57,7 +57,7 @@
       },
       {
         "id": "regionalverkehr",
-        "bitmasks": [46],
+        "bitmasks": [16],
         "name": "Regionalverkehr"
       },
       {
