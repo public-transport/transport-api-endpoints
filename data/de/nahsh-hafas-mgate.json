@@ -23,10 +23,12 @@
     "client": {
       "id": "NAHSH",
       "name": "NAHSHPROD",
+      "type": "IPH",
       "v": "3000700"
     },
     "ver": "1.16",
     "auth": {
+      "type": "AID",
       "aid": "r0Ot9FLFNAFxijLW"
     },
     "products": [
