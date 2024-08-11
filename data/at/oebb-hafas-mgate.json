@@ -1437,6 +1437,7 @@
     },
     "ver": "1.41",
     "auth": {
+      "type": "AID",
       "aid": "OWDL4fE4ixNiPBBm"
     },
     "products": [
