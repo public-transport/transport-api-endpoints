@@ -56,11 +56,11 @@
             },
             {
                 "bitmasks": [ 256 ],
-                "mode": "ferry"
+                "id": "ferry"
             },
             {
                 "bitmasks": [ 512 ],
-                "mode": "on-demand"
+                "id": "on-demand"
             }
         ],
         "ver": "1.18"
