@@ -45,6 +45,11 @@
         "name": "InterCity & EuroCity"
       },
       {
+        "id": "local",
+        "bitmasks": [4],
+        "name": "FlixTrain etc."
+      },
+      {
         "id": "regional",
         "bitmasks": [8],
         "name": "RegionalExpress & RegionalBahn"
@@ -61,8 +66,13 @@
       },
       {
         "id": "bus",
-        "bitmasks": [64, 128],
+        "bitmasks": [64],
         "name": "Bus"
+      },
+      {
+        "id": "on-demand",
+        "bitmasks": [128],
+        "name": "Rufbus"
       },
       {
         "id": "tourismTrain",
