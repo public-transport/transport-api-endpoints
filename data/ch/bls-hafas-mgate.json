@@ -4,7 +4,7 @@
     "hafasMgate": true
   },
   "supportedLanguages": [
-    "de"
+    "de", "en", "fr", "it"
   ],
   "timezone": "Europe/Zurich",
   "attribution": {
@@ -81,6 +81,7 @@
         "bitmasks": [4096],
         "name": "Autoverlad"
       }
-    ]
+    ],
+    "ver": "1.68"
   }
 }
