@@ -3167,7 +3167,7 @@
       "v": 19040000
     },
     "endpoint": "https://reiseauskunft.bahn.de/bin/mgate.exe",
-    "ext": "DB.R19.12.a",
+    "ext": "DB.R22.04.a",
     "locationIdentifierType": "db",
     "products": [
       {
@@ -3223,6 +3223,6 @@
     ],
     "standardLocationIdentifierCountries": [51, 53, 54, 55, 56, 70, 71, 74, 76, 80, 81, 82, 83, 84, 85, 86, 87, 88],
     "standardLocationIdentifierType": "ibnr",
-    "version": "1.18"
+    "version": "1.78"
   }
 }
