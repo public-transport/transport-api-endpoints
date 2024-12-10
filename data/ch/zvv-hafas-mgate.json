@@ -22,7 +22,7 @@
     }
   },
   "options": {
-    "endpoint": "https://online.fahrplan.zvv.ch/bin/mgate.exe",
+    "endpoint": "https://online.fahrplan.zvv.ch/gate",
     "client": {
       "type": "IPH",
       "id": "ZVV",
