@@ -12,7 +12,7 @@
         }
     },
     "options": {
-        "endpoint": "https://www.rolph.de/fahrplanauskunft/",
+        "endpoint": "https://mandanten.vrn.de/takt2/",
         "supportedOutputFormats": [ "XML", "JSON" ],
         "xmlOutputFormat": "full"
     },
