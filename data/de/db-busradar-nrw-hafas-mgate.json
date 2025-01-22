@@ -9,7 +9,7 @@
   "timezone": "Europe/Berlin",
   "attribution": {
     "name": "DB Regio Bus NRW",
-    "homepage": "https://www.dbregiobus-nrw.de/regiobusnrw/view/service/busradar.shtml",
+    "homepage": "https://www.dbregiobus-nrw.de/service/busradar",
     "isProprietary": true
   },
   "coverage": {
@@ -19,16 +19,16 @@
     }
   },
   "options": {
-    "endpoint": "https://db-regio.hafas.de/bin/hci/mgate.exe",
+    "endpoint": "https://db-regio.hafas.de/bin/mgate.exe",
     "client": {
       "id": "DB-REGIO",
       "name": "DB Busradar NRW",
       "os": "Android 9",
       "type": "AND",
-      "v": 100021
+      "v": "3000000"
     },
     "ext": "DB.REGIO.1",
-    "ver": "1.10",
+    "ver": "1.45",
     "auth": {
       "type": "AID",
       "aid": "OGBAqytjHhCvr0J4"
